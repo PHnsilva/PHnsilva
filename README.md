@@ -33,8 +33,11 @@ Sou estudante de Engenharia de Software na PUC Minas, com formação técnica em
  **React**  
  **HTML**, **CSS**, **JavaScript**
 
-## Contato
+ ---
+
+## 🤝 Entre em contato
+
+Estou disponível para colaborar em projetos que valorizem aprendizado contínuo e crescimento profissional.
 
 📧 **phnsilva1@gmail.com**  
-📍 Itabirito - MG, Brasil  
-[linkedin.com/in/PHnsilva1](https://linkedin.com/in/PHnsilva1)
+📫 [LinkedIn](https://linkedin.com/in/PHnsilva1)

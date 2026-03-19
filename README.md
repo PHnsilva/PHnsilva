@@ -208,25 +208,67 @@ Busco oportunidades na área de Engenharia de Software para atuar com desenvolvi
 
 ---
 
+---
+
 ## 📫 Contato
 
 <p align="center">
-  <a href="mailto:phnsilva1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/PHnsilva1">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/PHnsilva">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://wa.me/5531995438467">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+  <sub>Fale comigo pelos canais abaixo</sub>
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <a href="mailto:phnsilva1@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        <br />
+        <strong>Gmail</strong>
+        <br />
+        <sub>phnsilva1@gmail.com</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://linkedin.com/in/PHnsilva1">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <br />
+        <strong>LinkedIn</strong>
+        <br />
+        <sub>/in/PHnsilva1</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/PHnsilva">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <br />
+        <strong>GitHub</strong>
+        <br />
+        <sub>@PHnsilva</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://wa.me/5531995438467">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+        <br />
+        <strong>WhatsApp</strong>
+        <br />
+        <sub>+55 31 99543-8467</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <p align="center">
-  Obrigado pela visita ao meu perfil.
+  <img
+    src="./assets/readme_terminal_matrix.gif"
+    alt="Obrigado por entrar no meu perfil"
+    width="100%"
+  />
 </p>
 
-<img align="center" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0d1117&section=footer" />
+<img
+  align="center"
+  alt="Footer"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0d1117&section=footer"
+/>

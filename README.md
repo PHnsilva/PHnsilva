@@ -276,9 +276,3 @@ Busco oportunidades na área de Engenharia de Software para atuar com desenvolvi
     width="100%"
   />
 </p>
-
-<img
-  align="center"
-  alt="Footer"
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0d1117&section=footer"
-/>

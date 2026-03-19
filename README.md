@@ -247,15 +247,6 @@ Busco oportunidades na área de Engenharia de Software para atuar com desenvolvi
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/PHnsilva">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        <br />
-        <strong>GitHub</strong>
-        <br />
-        <sub>@PHnsilva</sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
       <a href="https://wa.me/5531995438467">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
         <br />

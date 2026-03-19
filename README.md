@@ -218,41 +218,40 @@ Busco oportunidades na área de Engenharia de Software para atuar com desenvolvi
 
 ---
 
----
-
 ## 📫 Contato
 
-<p align="center">
-  <h3 align="center">Fale comigo</h3>
-</p>
+<h3 align="center">Fale comigo</h3>
 
 <table align="center">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" valign="top" width="220">
+      <br />
       <a href="mailto:phnsilva1@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-        <br />
+        <br /><br />
         <strong>Gmail</strong>
         <br />
         <sub>phnsilva1@gmail.com</sub>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" valign="top" width="220">
+      <br />
       <a href="https://linkedin.com/in/PHnsilva1">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        <br />
+        <br /><br />
         <strong>LinkedIn</strong>
         <br />
         <sub>/in/PHnsilva1</sub>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" valign="top" width="220">
+      <br />
       <a href="https://wa.me/5531995438467">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-        <br />
+        <br /><br />
         <strong>WhatsApp</strong>
         <br />
-        <sub>+55 31 99543-8467</sub>
+        <sub>+55&nbsp;31&nbsp;99543&nbsp;8467</sub>
       </a>
     </td>
   </tr>

@@ -162,39 +162,49 @@ Busco oportunidades na área de Engenharia de Software para atuar com desenvolvi
 
 ## 👾 Contribuições
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/PHnsilva/PHnsilva/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/PHnsilva/PHnsilva/output/github-snake.svg"
-    />
-    <img
-      alt="Snake contribution graph"
-      src="https://raw.githubusercontent.com/PHnsilva/PHnsilva/output/github-snake.svg"
-    />
-  </picture>
-</p>
+> <p align="center">
+>   <picture>
+>     <source
+>       media="(prefers-color-scheme: dark)"
+>       srcset="https://raw.githubusercontent.com/PHnsilva/PHnsilva/output/pacman-contribution-graph-dark.svg"
+>     />
+>     <source
+>       media="(prefers-color-scheme: light)"
+>       srcset="https://raw.githubusercontent.com/PHnsilva/PHnsilva/output/pacman-contribution-graph.svg"
+>     />
+>     <img
+>       alt="Pacman contribution graph"
+>       src="https://raw.githubusercontent.com/PHnsilva/PHnsilva/output/pacman-contribution-graph.svg"
+>       width="86%"
+>     />
+>   </picture>
+> </p>
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/PHnsilva/PHnsilva/output/pacman-contribution-graph-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/PHnsilva/PHnsilva/output/pacman-contribution-graph.svg"
-    />
-    <img
-      alt="Pacman contribution graph"
-      src="https://raw.githubusercontent.com/PHnsilva/PHnsilva/output/pacman-contribution-graph.svg"
-    />
-  </picture>
-</p>
+> <p align="center">
+>   <img
+>     src="https://ghchart.rshah.org/FF6D00/PHnsilva"
+>     alt="GitHub contribution chart"
+>     width="86%"
+>   />
+> </p>
+
+> <p align="center">
+>   <picture>
+>     <source
+>       media="(prefers-color-scheme: dark)"
+>       srcset="https://raw.githubusercontent.com/PHnsilva/PHnsilva/output/github-snake-dark.svg"
+>     />
+>     <source
+>       media="(prefers-color-scheme: light)"
+>       srcset="https://raw.githubusercontent.com/PHnsilva/PHnsilva/output/github-snake.svg"
+>     />
+>     <img
+>       alt="Snake contribution graph"
+>       src="https://raw.githubusercontent.com/PHnsilva/PHnsilva/output/github-snake.svg"
+>       width="86%"
+>     />
+>   </picture>
+> </p>
 
 <!--
 ---

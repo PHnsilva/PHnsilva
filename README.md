@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.gif" alt="Banner animado do perfil" width="100%" />
+  <img src="./assets/banner.gif" alt="Banner animado do perfil" width="100%" />
 </p>
 
 <h1 align="center">Pedro Henrique Silva Vargas</h1>

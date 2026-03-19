@@ -223,7 +223,7 @@ Busco oportunidades na área de Engenharia de Software para atuar com desenvolvi
 ## 📫 Contato
 
 <p align="center">
-  <sub>Fale comigo pelos canais abaixo</sub>
+  <h3 align="center">Fale comigo</h3>
 </p>
 
 <table align="center">

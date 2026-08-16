@@ -91,31 +91,6 @@ Busco oportunidades na área de Engenharia de Software para atuar com desenvolvi
 
 ---
 
-## 📦 Repositório em destaque
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://github.com/PHnsilva/CalendarMate">
-          <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=PHnsilva&repo=CalendarMate&theme=github_dark&hide_border=true"
-            alt="CalendarMate"
-          />
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <img
-          src="https://img.shields.io/github/commit-activity/m/PHnsilva/CalendarMate?style=for-the-badge&color=0ea5e9&label=CALENDARMATE+COMMITS%2FMONTH"
-          alt="CalendarMate commits per month"
-        />
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">

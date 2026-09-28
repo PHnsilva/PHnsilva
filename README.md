@@ -54,20 +54,13 @@
 
 ---
 
-<img
-  src="./assets/profile-pixel.png"
-  width="150"
-  align="left"
-  alt="Pedro Henrique Silva Vargas"
-/>
-
 ## 👨‍💻 Sobre mim
 
 Sou estudante de **Engenharia de Software** na **PUC Minas** e técnico em **Eletroeletrônica** pelo **SENAI Itabirito**.
 
-Busco oportunidades na área de Engenharia de Software para atuar com desenvolvimento de aplicações, integração entre componentes e melhoria de rotinas, contribuindo com entregas organizadas, versionadas e com foco em qualidade. Para mais informações, acesse meu portfólio: <a href="https://portfolio-phnsilva.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00E676?style=flat-square&logo=vercel&logoColor=white&labelColor=0B1220" alt="Portfolio" /></a>
+Busco oportunidades na área de Engenharia de Software para atuar com desenvolvimento de aplicações, integração entre componentes e melhoria de rotinas, contribuindo com entregas organizadas, versionadas e com foco em qualidade.
 
-<br clear="left" />
+Para mais informações, acesse meu portfólio: <a href="https://portfolio-phnsilva.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00E676?style=flat-square&logo=vercel&logoColor=white&labelColor=0B1220" alt="Portfolio" /></a>
 
 ---
 

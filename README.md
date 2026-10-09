@@ -58,9 +58,9 @@
 
 Sou estudante de **Engenharia de Software** na **PUC Minas** e técnico em **Eletroeletrônica** pelo **SENAI Itabirito**.
 
-Desenvolvo aplicações web, APIs e experimentos pessoais, além de participar de projetos em equipe. Gosto de conectar interfaces, backend e integrações — e de deixar um pouco de jogos e terminal no que crio.
+Desenvolvo interfaces, aplicações web, APIs e integrações. Gosto de criar e experimentar novos projetos e tecnologias. Fora da programação, gosto de jogos, esportes e cozinhar.
 
-## 🕹️ Meu portfólio
+## Meu portfólio
 
 [![Portfólio de Pedro Silva](./assets/portfolio-preview.jpg)](https://portfolio-phnsilva.vercel.app)
 

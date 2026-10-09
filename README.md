@@ -62,22 +62,9 @@ Desenvolvo aplicações web, APIs e experimentos pessoais, além de participar d
 
 ## 🕹️ Meu portfólio
 
-[![Portfólio de Pedro Silva: tema escuro, retrato e elementos pixelados](./assets/portfolio-preview.jpg)](https://portfolio-phnsilva.vercel.app)
+[![Portfólio de Pedro Silva](./assets/portfolio-preview.jpg)](https://portfolio-phnsilva.vercel.app)
 
 **[Abrir portfólio →](https://portfolio-phnsilva.vercel.app)** · Capturas dos projetos, contexto de cada entrega e minha participação, em português e inglês.
-
-### Projetos em destaque
-
-| Projeto | O que desenvolvemos | Conheça |
-| --- | --- | --- |
-| **APAC Feminina** · em equipe | Gestão de medicamentos e acompanhamento clínico. Java, Spring Boot e Next.js. | [Apresentação](https://portfolio-phnsilva.vercel.app/projetos/apac-feminina) |
-| **CalendarMate** · pessoal | Agenda de serviços, disponibilidade e integrações. Java, Spring Boot e React. | [Apresentação](https://portfolio-phnsilva.vercel.app/projetos/calendar-mate) · [Código](https://github.com/PHnsilva/CalendarMate) |
-| **Meritum** · em equipe | Moeda estudantil e reconhecimento acadêmico. React, TypeScript, Fastify e Prisma. | [Apresentação](https://portfolio-phnsilva.vercel.app/projetos/meritum) · [Código](https://github.com/PHnsilva/Meritum) |
-| **PsiHub** · em equipe | Plataforma web e mobile para psicólogos. Flutter, Dart e NestJS. | [Apresentação](https://portfolio-phnsilva.vercel.app/projetos/psihub) |
-| **Sofiie** · pessoal | Assistente por texto e voz, com ações locais no desktop. TypeScript, Fastify e Tauri. | [Apresentação](https://portfolio-phnsilva.vercel.app/projetos/sofiie) · [Código](https://github.com/PHnsilva/Sofiie) |
-| **SlothSignal** · pessoal | Serviço de notificações Web Push. TypeScript, Next.js e Supabase. | [Apresentação](https://portfolio-phnsilva.vercel.app/projetos/sloth-signal) · [Código](https://github.com/PHnsilva/SlothSignal) |
-
-As apresentações detalham participação, estado e limites de cada projeto. APAC Feminina e PsiHub têm código em repositórios restritos.
 
 ---
 
@@ -90,18 +77,14 @@ As apresentações detalham participação, estado e limites de cada projeto. AP
 
 ## </> Linguagens e ferramentas
 
-Tecnologias que uso em projetos pessoais, acadêmicos e em equipe:
-
-| Área | Tecnologias |
-| --- | --- |
-| Linguagens | Java, TypeScript, JavaScript, Python, C#, C, C++, Dart, Rust, HTML, CSS e SQL |
-| Web, mobile e desktop | React, Next.js, Flutter, Tauri e Vite |
-| Backend e APIs | Spring Boot, ASP.NET Core, NestJS, FastAPI, Fastify, Micronaut e Node.js |
-| Dados e integrações | PostgreSQL, MongoDB, Supabase, Prisma, TypeORM, Entity Framework Core, RabbitMQ, Web Push e Google Calendar API |
-| Ferramentas e entrega | Git, GitHub, Docker, GitHub Actions, Maven, Postman, Swagger/OpenAPI, Vercel e VS Code |
-| Testes e qualidade | JUnit, Vitest, pytest, Playwright, Testing Library, Supertest, ESLint e Prettier |
-
-[Explore as tecnologias no portfólio](https://portfolio-phnsilva.vercel.app/#ferramentas).
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=java,python,cs,js,ts,c,cpp,html,css,vite,spring,dotnet,react,postgres,docker,git,github,vscode,postman&theme=dark&perline=9"
+      alt="Linguagens e ferramentas"
+    />
+  </a>
+</p>
 
 ---
 

@@ -58,7 +58,7 @@
 
 Sou estudante de **Engenharia de Software** na **PUC Minas** e técnico em **Eletroeletrônica** pelo **SENAI Itabirito**.
 
-Desenvolvo interfaces, aplicações web, APIs e integrações. Gosto de criar e experimentar novos projetos e tecnologias. Fora da programação, gosto de jogos, esportes e cozinhar.
+Desenvolvo interfaces, aplicações web, APIs e integrações. Gosto de criar e experimentar novos projetos e tecnologias.
 
 ## Meu portfólio
 
